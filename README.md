@@ -14,7 +14,7 @@ OpenCore: 7.5
 
 - GPU: AMD Radeon RX 5700 8 GB
 
-- Samsung 980 PRO PCIe 4.0 NVMe M.2 SSD
+- Drive: Samsung 980 PRO PCIe 4.0 NVMe M.2 SSD
 
 - Network Adapter:  Tp-Link TG-3468 (RealtekRTL8111.kext)
 
