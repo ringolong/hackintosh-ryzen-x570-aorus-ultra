@@ -6,7 +6,7 @@ OpenCore: 7.5
 
 ## Hardware:
 
-- Motherboard: Gigabyte X570 Aorus
+- Motherboard: Gigabyte X570 Aorus (I removed the Intel bluetooth/WiFi card)
 
 - Processor: AMD Ryzen 5900x
 
